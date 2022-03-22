@@ -1,2 +1,3 @@
 teste 2 de git
 incluindo uma segunda linha
+incluindo uma terceira linha
