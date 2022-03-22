@@ -1,2 +1,4 @@
 teste de git
 incluida uma segunda linha
+incluida uma terceira linha
+incluida uma quarta linha
