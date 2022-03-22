@@ -1,1 +1,2 @@
-teste 2 de git
+teste 3 de git
+incluindo uma segunda linha
